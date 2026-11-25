@@ -59,7 +59,7 @@
 
 ## 🚀 Indítás
 
-1. Töltsd le a legfrissebb **`GyakorloPMS-…-portable.exe`** fájlt a [Releases](https://github.com/blnr999/PMS/releases/latest) oldalról.
+1. Töltsd le a legfrissebb fájlt a [Releases](https://github.com/blnr999/PMS/releases/latest) oldalról.
 2. Indítsd el dupla kattintással – telepítés nem kell, bárhonnan futtatható (pl. pendrive-ról is).
 3. A kezdőképernyőn válaszd az **„Azonnali indítás”** gombot: kész mintaszálloda nyílik, gyakorlóvendégekkel.
 
