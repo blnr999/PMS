@@ -1,161 +1,83 @@
 <p align="center">
-  <img src="docs/banner.png" alt="PMS – Educational edition" width="100%">
+  <img src="docs/hero.png" alt="PMS – Educational edition" width="100%">
 </p>
 
 <p align="center">
   <a href="https://github.com/blnr999/PMS/releases/latest"><img src="https://img.shields.io/github/v/release/blnr999/PMS?style=flat-square&label=verzi%C3%B3&color=0f5cc0" alt="Verzió"></a>
-  <img src="https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0f5cc0?style=flat-square" alt="Platform">
+  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0f5cc0?style=flat-square" alt="Windows 10 | 11">
   <img src="https://img.shields.io/badge/nyelv-HU%20%7C%20EN-0f5cc0?style=flat-square" alt="Nyelv">
-  <img src="https://img.shields.io/badge/m%C5%B1k%C3%B6d%C3%A9s-offline-0f5cc0?style=flat-square" alt="Offline">
-</p>
-
-<h3 align="center">Szállodairányítási rendszer recepciós képzéshez és bemutatóhoz</h3>
-
-<p align="center">
-  A PMS – Educational edition a szállodai front office teljes munkafolyamatát modellezi:<br>
-  foglalás, bejelentkezés, tartózkodás, elszámolás és napzárás – valós szállodai rendszerek mintájára.
+  <img src="https://img.shields.io/badge/internet-nem%20sz%C3%BCks%C3%A9ges-0f5cc0?style=flat-square" alt="Offline">
 </p>
 
 <p align="center">
-  <a href="https://github.com/blnr999/PMS/releases/latest"><img src="https://img.shields.io/badge/Let%C3%B6lt%C3%A9s-Windows-0f5cc0?style=for-the-badge&logo=windows&logoColor=white" alt="Letöltés Windowsra"></a>
+  A szállodai front office teljes munkafolyamata egyetlen programban –<br>
+  foglalástól a napzárásig, valós szállodai rendszerek mintájára.
+</p>
+
+<p align="center">
+  <a href="https://github.com/blnr999/PMS/releases/latest"><img src="https://img.shields.io/badge/Let%C3%B6lt%C3%A9s%20Windowsra-0f5cc0?style=for-the-badge&logo=windows&logoColor=white" alt="Letöltés Windowsra" height="42"></a>
 </p>
 
 <br>
 
-## Funkciók
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/features-dark.png">
+  <img src="docs/features-light.png" alt="Front office · Szobatükör · Folio és számlázás · Pénzkezelés · Csoportok · Árazás · Napzárás · Hatóság" width="100%">
+</picture>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Front office</h4>
-      Foglaláskezelés és walk-in, szobatükör húzásos áthelyezéssel, bejelentkezés ellenőrzőlistával
-      (bejelentő lap, fizetési garancia, kulcskártya), szobacsere, kijelentkezés.
-    </td>
-    <td width="50%" valign="top">
-      <h4>Folio és számlázás</h4>
-      Kétablakos folio, terhelés-átirányítás, előlegszámla, sztornó és módosító számla,
-      cégszámla és kintlévőség-kezelés.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h4>Pénzkezelés</h4>
-      Készpénz, bankkártya, átutalás, SZÉP-kártya és devizás fizetés (HUF / EUR),
-      felhasználónkénti kasszanyitás és -zárás egyeztetéssel.
-    </td>
-    <td valign="top">
-      <h4>Csoportfoglalás</h4>
-      Kontingens szobatípusonként, rooming list importálása, automatikus szobakiosztás,
-      master folio és határidő (cut-off) kezelése.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h4>Árazás és értékesítés</h4>
-      Árnaptár, árkódok, csomagelemek, lemondási feltételek, értékesítési korlátozások
-      és piaci szegmensek.
-    </td>
-    <td valign="top">
-      <h4>Napzárás és riportok</h4>
-      Éjszakai terhelések, főkönyvek és trial balance, napi vezetői riport (foglaltság, ADR, RevPAR),
-      nyomtatható napi listák.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h4>Napi működés</h4>
-      Emlékeztetők részlegenként, vendégüzenetek, ébresztés, housekeeping-állapotok
-      és szobalista.
-    </td>
-    <td valign="top">
-      <h4>Hatósági adatszolgáltatás</h4>
-      NTAK- és VIZA-adatküldés, valamint NAV Online Számla – oktatási célú szimulációként.
-    </td>
-  </tr>
-</table>
+<br><br>
 
-**Két munkamód.** A *Tanuló mód* minden lépést magyaráz és ellenőrzőlistával vezet; a *Pro mód* sűrű, billentyűzetről vezérelhető felülete éles rendszerek kezelését idézi. A felület magyar, angol szakkifejezésekkel kiegészítve, vagy teljesen angol.
+<p align="center">
+  <img src="docs/modes.png" alt="Tanuló mód és Pro mód" width="100%">
+</p>
 
 <br>
 
-## Képernyőképek
-
 <table>
   <tr>
-    <td width="50%"><img src="docs/dashboard.png" alt="Áttekintés"></td>
-    <td width="50%"><img src="docs/room-rack.png" alt="Szobatükör"></td>
+    <td width="50%"><img src="docs/shot-room-rack.png" alt="Szobatükör"></td>
+    <td width="50%"><img src="docs/shot-folio.png" alt="Folio"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Áttekintés – érkezők, távozók, napi teendők</sub></td>
-    <td align="center"><sub>Szobatükör</sub></td>
+    <td align="center"><b>Szobatükör</b><br><sub>Foglaltság napra bontva, húzásos áthelyezés</sub></td>
+    <td align="center"><b>Folio</b><br><sub>Terhelések, befizetések, számlázás</sub></td>
   </tr>
   <tr>
-    <td><img src="docs/check-in.png" alt="Bejelentkezés"></td>
-    <td><img src="docs/folio.png" alt="Folio"></td>
+    <td><img src="docs/shot-groups.png" alt="Csoportfoglalás"></td>
+    <td><img src="docs/shot-night-audit.png" alt="Napzárás"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Bejelentkezés ellenőrzőlistával</sub></td>
-    <td align="center"><sub>Folio – terhelések, befizetések, számla</sub></td>
+    <td align="center"><b>Csoportfoglalás</b><br><sub>Kontingens, rooming list, master folio</sub></td>
+    <td align="center"><b>Napzárás</b><br><sub>Ellenőrzések, főkönyvek, trial balance</sub></td>
   </tr>
   <tr>
-    <td><img src="docs/pro-mode.png" alt="Pro mód"></td>
-    <td><img src="docs/groups.png" alt="Csoportfoglalás"></td>
+    <td><img src="docs/shot-dashboard.png" alt="Áttekintés"></td>
+    <td><img src="docs/shot-dark-mode.png" alt="Sötét téma"></td>
   </tr>
   <tr>
-    <td align="center"><sub>Pro mód</sub></td>
-    <td align="center"><sub>Csoportfoglalás és rooming list</sub></td>
-  </tr>
-  <tr>
-    <td><img src="docs/night-audit.png" alt="Napzárás"></td>
-    <td><img src="docs/dark-mode.png" alt="Sötét téma"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Napzárás</sub></td>
-    <td align="center"><sub>Sötét téma</sub></td>
+    <td align="center"><b>Áttekintés</b><br><sub>Érkezők, távozók, napi teendők</sub></td>
+    <td align="center"><b>Sötét téma</b><br><sub>Állítható megjelenés, betűméret, nyelv</sub></td>
   </tr>
 </table>
 
 <br>
 
-## Telepítés
+## Indítás
 
-1. Töltse le a legfrissebb `GyakorloPMS-<verzió>-portable.exe` fájlt a [Releases](https://github.com/blnr999/PMS/releases/latest) oldalról.
-2. Indítsa el a fájlt. Telepítés nem szükséges; a program hordozható adathordozóról is futtatható.
-3. A kezdőképernyőn az **Azonnali indítás** gombbal egy mintaszálloda nyílik meg gyakorlóadatokkal, vagy a beállítóvarázslóval saját szálloda hozható létre.
+1. Töltse le a legfrissebb verziót a [Releases](https://github.com/blnr999/PMS/releases/latest) oldalról.
+2. Indítsa el a letöltött fájlt – telepítés nem szükséges.
+3. A kezdőképernyőn az **Azonnali indítás** egy kész mintaszállodát nyit meg gyakorlóadatokkal.
 
 > [!NOTE]
-> A program nem rendelkezik digitális aláírással, ezért első indításkor a Windows SmartScreen figyelmeztetést jeleníthet meg.
-> Az indításhoz válassza a **További információ**, majd a **Futtatás mindenképp** lehetőséget.
+> A program nem rendelkezik digitális aláírással. Ha a Windows SmartScreen figyelmeztet, válassza a **További információ**, majd a **Futtatás mindenképp** lehetőséget.
 
-### Rendszerkövetelmények
-
-| | |
-|---|---|
-| Operációs rendszer | Windows 10 vagy 11, 64 bites |
-| Szabad tárhely | kb. 400 MB |
-| Internetkapcsolat | nem szükséges |
-
-<br>
-
-## Kezelés
-
-| Billentyű | Funkció |
-|---|---|
-| `F1` | Súgó, magyar–angol fogalomtár, bemutató |
-| `F2` | Új foglalás |
-| `F3` | Keresés |
-| `F4` | Walk-in |
-| `Alt` + `1…9` | Menüpontok |
-
-A szálloda állapota bármikor fájlba menthető és visszatölthető, így egy kiinduló helyzet tetszőleges alkalommal újra felhasználható.
+<sub>**Rendszerkövetelmény:** Windows 10 vagy 11 (64 bit) · kb. 400 MB szabad hely · internetkapcsolat nem szükséges</sub>
 
 <br>
 
 ## Jogi tudnivalók
 
-A szoftver kizárólag **oktatási és bemutató célra** készült. A programban szereplő vendégek, cégek és adatok kitaláltak. A számlák, a NAV-, NTAK- és VIZA-adatszolgáltatás, valamint a fizetési és kulcskártya-rendszerek szimulációk; a program valós szállodai üzemeltetésre nem alkalmas.
-
-A program nem gyűjt és nem továbbít adatot – minden információ kizárólag a felhasználó számítógépén tárolódik.
+A szoftver oktatási és bemutató célra készült. A szereplő vendégek, cégek és adatok kitaláltak; a NAV-, NTAK- és VIZA-adatszolgáltatás, valamint a fizetési és kulcskártya-rendszerek szimulációk. A program nem gyűjt és nem továbbít adatot – minden információ a felhasználó számítógépén marad.
 
 <br>
 
@@ -163,11 +85,9 @@ A program nem gyűjt és nem továbbít adatot – minden információ kizáról
 <summary><b>English</b></summary>
 <br>
 
-**PMS – Educational edition** is an offline hotel property management system for front office training and demonstrations, modelled on real hotel systems.
+**PMS – Educational edition** is an offline hotel property management system for front office training and demonstrations, modelled on real hotel systems: reservations, room rack, guided check-in and check-out, two-window folios with routing, advance, cancellation and modifying invoices, city ledger, cashier sessions, group blocks with rooming lists, rate calendar with packages and cancellation policies, and a night audit with ledgers, trial balance and management reports.
 
-It covers reservations and walk-ins, a drag-and-drop room rack, guided check-in and check-out, two-window folios with routing, advance, cancellation and modifying invoices, city ledger, per-user cashier sessions, group blocks with rooming lists and master folios, a rate calendar with packages and cancellation policies, and a night audit with ledgers, trial balance and management reports.
-
-Download the portable executable from [Releases](https://github.com/blnr999/PMS/releases/latest) – no installation or internet connection required. All data is fictional; government and payment interfaces are simulated.
+Download the latest version from [Releases](https://github.com/blnr999/PMS/releases/latest) – no installation or internet connection required. All data is fictional; government and payment interfaces are simulated.
 
 </details>
 
