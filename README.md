@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/internet-nem%20sz%C3%BCks%C3%A9ges-0f5cc0?style=flat-square" alt="Internet nem szükséges">
 </p>
 
-<h3 align="center">Szállodairányítás a gyakorlatban – telepítés és internet nélkül.</h3>
+<h3 align="center">Szállodairányítás a gyakorlatban - akár internet nélkül.</h3>
 
 <p align="center">
   Az EduPMS a szállodai recepció és back office teljes munkafolyamatát hozza el egyetlen programban.<br>
